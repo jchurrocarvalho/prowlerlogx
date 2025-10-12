@@ -40,7 +40,7 @@ The configuration files are divided in server and client configuration files. Th
 - 64-server-rules.conf
     - Rules configurated for server.
 - 68-server-client-rules.conf
-    -  Rules configurated for server acting as a client. Server also can act as a client, as it laso send log data.
+    - Rules configurated for server acting as a client. Server also can act as a client, as it laso send log data.
 - 70-client.conf
     - Basic client configuration. Now is empty.
 - 71-client-tls.conf
